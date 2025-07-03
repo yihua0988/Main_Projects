@@ -13,7 +13,7 @@ project/
 ├── model/ # 聚類與關聯規則模型
 ├── visualization/ # 圖表、儀表板與圖像素材
 ├── report/ # 簡報與研究文件
-└── README.md
+└── README.md # 專案說明文件
 ---
 
 ## 🎯 分析目標

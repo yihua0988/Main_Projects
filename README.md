@@ -7,13 +7,14 @@
 ---
 
 ## 📁 專案結構總覽
-project/
-├── data/ # 問卷、社群互動、股價、活動紀錄
-├── analysis/ # 探索性資料分析 (EDA)
-├── model/ # 聚類與關聯規則模型
-├── visualization/ # 圖表、儀表板與圖像素材
-├── report/ # 簡報與研究文件
-└── README.md # 專案說明文件
+
+- 📂 `data/`：問卷、社群互動、股價、活動紀錄  
+- 📂 `analysis/`：探索性資料分析（EDA）  
+- 📂 `model/`：聚類與關聯規則模型  
+- 📂 `visualization/`：圖表、儀表板與圖像素材  
+- 📂 `report/`：簡報與研究文件  
+- 📄 `README.md`：專案說明文件
+
 ---
 
 ## 🎯 分析目標

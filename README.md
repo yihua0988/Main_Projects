@@ -1,7 +1,7 @@
 # 🎮 潮玩消費習慣分析與公司關聯性研究
 
-![封面](assets/banner-toy.png)
-[查看我的首頁](https://yihua0988.github.io/Main_Projects/)
+![封面](assets/banner-toy.png)<br>
+[查看我的首頁](https://yihua0988.github.io/Main_Projects/)<br>
 本專案聚焦於潮玩（如 Labubu、Molly 等）消費者的購買行為與心理細分，結合股價、社群熱度、行銷活動資料，探索消費行為與企業營運間的潛在連動關係，提供市場預測與行銷優化依據。
 
 ---
